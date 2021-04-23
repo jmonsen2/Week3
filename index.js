@@ -58,6 +58,8 @@ fullName("Cedric", "Jameson");
 
 //I was able to figure out how to use parameters and arguments with this function from watching the videos in the course.
 
+var theNumbers = [5, 10 ,15, 20, 25, 30, 35];
+
 
 
 
